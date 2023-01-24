@@ -15,4 +15,6 @@ class KTPInformation(object):
         self.status_perkawinan = ""
         self.pekerjaan = ""
         self.kewarganegaraan = ""
+        self.SCORE_FR = ""
         berlaku_hingga = "SEMUR HIDUP"
+    
